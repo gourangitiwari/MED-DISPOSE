@@ -1,0 +1,21 @@
+#imag{
+    width: 300px;
+    height: 250px;
+    background-size: cover;
+}
+
+.nav-link #alert{
+    width: 30px;
+    height: 30px;
+}
+.container-fluid #covid{
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+}
+body{
+    background-color:#D1F2E5;
+}
+#mainNav.scrolled{
+ background: #D1F2E5;
+}
